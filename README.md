@@ -1,5 +1,25 @@
 # Efficient Data Stream Anomaly Detection
 
+## Demo Video
+
+[Click here to watch the demo video](demoVideo.mov)
+
+This video demonstrates the key features of the anomaly detection visualization, including real-time interactions.
+
+## Features Demonstrated in the Video
+
+1. **Real-Time Data Stream Visualization**:
+   - Shows the data stream being plotted in real time with consistent updates.
+2. **Anomaly Detection and Highlighting**:
+   - Demonstrates how anomalies are detected and highlighted both on the graph and in the anomaly table.
+3. **Interactive Graph**:
+   - Allows the user to click on anomaly points to view detailed information and highlight corresponding entries in the anomaly table.
+4. **Data Tables**:
+   - Features two tables displaying all data points and anomalies detected, with real-time updates.
+5. **Dynamic Updates**:
+   - Data points are continuously plotted, with detected anomalies automatically highlighted to visualize unusual behavior.
+
+
 ## Project Overview
 This project is part of the application process for the Graduate Software Engineer role at Cobblestone Energy. The goal of this project is to develop a Python script capable of detecting anomalies in a continuous data stream. This data stream simulates real-time sequences of floating-point numbers that could represent various metrics such as financial transactions or system performance metrics.
 
