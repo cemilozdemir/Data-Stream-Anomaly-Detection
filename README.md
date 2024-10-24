@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Click here to watch the demo video](demoVideo.mov)
+[Click here to watch the demo video](demoGif.gif)
 
 This video demonstrates the key features of the anomaly detection visualization, including real-time interactions.
 
